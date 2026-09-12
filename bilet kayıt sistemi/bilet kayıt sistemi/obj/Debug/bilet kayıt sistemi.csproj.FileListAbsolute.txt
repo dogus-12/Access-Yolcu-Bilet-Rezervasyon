@@ -1,0 +1,11 @@
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\bin\Debug\bilet kayıt sistemi.exe.config
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\bin\Debug\bilet kayıt sistemi.exe
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\bin\Debug\bilet kayıt sistemi.pdb
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\obj\Debug\bilet kayıt sistemi.csproj.AssemblyReference.cache
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\obj\Debug\bilet_kayıt_sistemi.Form1.resources
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\obj\Debug\bilet_kayıt_sistemi.Properties.Resources.resources
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\obj\Debug\bilet kayıt sistemi.csproj.GenerateResource.cache
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\obj\Debug\bilet kayıt sistemi.csproj.CoreCompileInputs.cache
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\obj\Debug\bilet kayıt sistemi.exe
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\obj\Debug\bilet kayıt sistemi.pdb
+C:\Users\doğukan\OneDrive\Masaüstü\c# dersleri\ACCESS VERİ TABANI\Access Yolcu Bilet Rezervasyon\bilet kayıt sistemi\bilet kayıt sistemi\obj\Debug\bilet kayıt sistemi.exe.config

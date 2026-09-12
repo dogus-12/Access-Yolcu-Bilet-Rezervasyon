@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\do\u011Fukan\\OneDrive\\Masa\u00FCst\u00FC\\c# dersleri\\ACCESS VER\u0130 TABANI\\Access Yolcu Bilet Rezervasyon\\bilet kay\u0131t sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC59F898-5DE3-4F55-A8CF-E7EEB2F51D6B}|bilet kay\u0131t sistemi\\bilet kay\u0131t sistemi.csproj|c:\\users\\do\u011Fukan\\onedrive\\masa\u00FCst\u00FC\\c# dersleri\\access ver\u0130 tabani\\access yolcu bilet rezervasyon\\bilet kay\u0131t sistemi\\bilet kay\u0131t sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC59F898-5DE3-4F55-A8CF-E7EEB2F51D6B}|bilet kay\u0131t sistemi\\bilet kay\u0131t sistemi.csproj|solutionrelative:bilet kay\u0131t sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC59F898-5DE3-4F55-A8CF-E7EEB2F51D6B}|bilet kay\u0131t sistemi\\bilet kay\u0131t sistemi.csproj|C:\\Users\\do\u011Fukan\\OneDrive\\Masa\u00FCst\u00FC\\c# dersleri\\ACCESS VER\u0130 TABANI\\Access Yolcu Bilet Rezervasyon\\bilet kay\u0131t sistemi\\bilet kay\u0131t sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC59F898-5DE3-4F55-A8CF-E7EEB2F51D6B}|bilet kay\u0131t sistemi\\bilet kay\u0131t sistemi.csproj|solutionrelative:bilet kay\u0131t sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\do\u011Fukan\\OneDrive\\Masa\u00FCst\u00FC\\c# dersleri\\ACCESS VER\u0130 TABANI\\Access Yolcu Bilet Rezervasyon\\bilet kay\u0131t sistemi\\bilet kay\u0131t sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "bilet kay\u0131t sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\do\u011Fukan\\OneDrive\\Masa\u00FCst\u00FC\\c# dersleri\\ACCESS VER\u0130 TABANI\\Access Yolcu Bilet Rezervasyon\\bilet kay\u0131t sistemi\\bilet kay\u0131t sistemi\\Form1.cs",
+              "RelativeToolTip": "bilet kay\u0131t sistemi\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA3wDgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:22:04.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\do\u011Fukan\\OneDrive\\Masa\u00FCst\u00FC\\c# dersleri\\ACCESS VER\u0130 TABANI\\Access Yolcu Bilet Rezervasyon\\bilet kay\u0131t sistemi\\bilet kay\u0131t sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "bilet kay\u0131t sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\do\u011Fukan\\OneDrive\\Masa\u00FCst\u00FC\\c# dersleri\\ACCESS VER\u0130 TABANI\\Access Yolcu Bilet Rezervasyon\\bilet kay\u0131t sistemi\\bilet kay\u0131t sistemi\\Form1.cs [Design]",
+              "RelativeToolTip": "bilet kay\u0131t sistemi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:13:54.91Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
